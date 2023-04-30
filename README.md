@@ -1,4 +1,4 @@
-# autonomous-painter-drone-project
+# autonomous-drone-project
 
 # First-phase
 
