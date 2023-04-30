@@ -29,6 +29,7 @@ On this the NodeMCU ESP8266 is connected to PIxhawks's Telecommunication Channel
 
 # Assemblinng the drone 
 On this step we set up the frame work and LiPo battery battery is connected on ESC. The ESC is connected to the Pixhauk's Output Ports. There after we connected the BLDC Motor Clock wise and Anticlock wise refer the figure  *BLDC Motor Connection.jpeg*. 
-
+# Pixhawk Interfacing 
+Next we callibrating the pixhawk and reading the output values 
 # Jetson Nano
 After the configuaration we start the journey with JETSON Nano. With this we can be programmable Drone into autopilot mode and it connected Telecommunicaion Port 2.
